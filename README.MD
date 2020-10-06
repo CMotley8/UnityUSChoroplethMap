@@ -1,3 +1,5 @@
+I am the sole creator of this project.
+
 One of the projects I worked on as a TA for Dr. Aidong Lu's Immersive Vis Repository for her ITCS - 4123/5123 - Visualization and Visual Communication course at UNC Charlotte.
 
 Link to the Immersive Vis Repository where other projects I worked on are: https://github.com/ImmersiveAnalyticsUNCC/Immersive.Unity.Vis
