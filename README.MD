@@ -6,5 +6,6 @@ Last Modified: October 6th, 2020 by Christian Motley
 
 Choropleth Before Data Loads In:
 <img src="Choropleth Before Data Load.PNG" width="600">
+
 Choropleth After Data Loads In:
 <img src="Choropleth After Data Load.PNG" width="600">
