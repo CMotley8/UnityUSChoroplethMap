@@ -8,10 +8,10 @@ Choropleth Running GIF:
 
 <img src="Choropleth.gif" width="600">
 
-Image of Choropleth Before Data Loads In:
+Image of the choropleth map before data loads in:
 
 <img src="Choropleth Before Data Load.PNG" width="600">
 
-Image of Choropleth After Data Loads In:
+Image of the choropleth map after data loads in:
 
 <img src="Choropleth After Data Load.PNG" width="600">
