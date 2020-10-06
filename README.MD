@@ -4,14 +4,14 @@ Link to the Immersive Vis Repository where other projects I worked on are: https
 
 Last Modified: October 6th, 2020 by Christian Motley
 
-Choropleth Running Gif:
+Choropleth Running GIF:
 
 <img src="Choropleth.gif" width="600">
 
-Choropleth Before Data Loads In:
+Image of Choropleth Before Data Loads In:
 
 <img src="Choropleth Before Data Load.PNG" width="600">
 
-Choropleth After Data Loads In:
+Image of Choropleth After Data Loads In:
 
 <img src="Choropleth After Data Load.PNG" width="600">
